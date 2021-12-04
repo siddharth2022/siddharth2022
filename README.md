@@ -6,7 +6,7 @@
 🌱 &nbsp;I'm on track for learning more about Systems Design, and Architecture.\
 ✉️ &nbsp;You can shoot me an email at siddhrathyadav1999@gmail.com or +91 7573900432! I'll try to respond as soon as I can.\
 
-<img alt="coding" src="./assets/coding.gif" align="right"/>
+<img alt="coding" src="./assets/coding.gif" align="right" style="height: 35%;width: 25%"/>
 
 ### 🛠 &nbsp;Tech Stack
 
